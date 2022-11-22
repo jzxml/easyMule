@@ -1,0 +1,344 @@
+﻿  ngx_modules.c
+E:\StudyC++\nginx-release-1.23.2\objs\ngx_modules.c(2,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  nginx.c
+E:\StudyC++\nginx-release-1.23.2\src\core\nginx.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_array.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_array.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_buf.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_buf.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_conf_file.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_conf_file.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_connection.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_connection.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_cpuinfo.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_cpuinfo.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_crc32.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_crc32.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_crypt.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_crypt.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_cycle.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_cycle.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_file.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_file.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_hash.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_hash.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_inet.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_inet.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_list.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_list.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_log.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_log.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_md5.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_md5.c(9,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_module.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_module.c(9,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_murmurhash.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_murmurhash.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_open_file_cache.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_open_file_cache.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_output_chain.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_output_chain.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  正在编译...
+  ngx_palloc.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_palloc.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_parse.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_parse.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_parse_time.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_parse_time.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_proxy_protocol.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_proxy_protocol.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_queue.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_queue.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_radix_tree.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_radix_tree.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_rbtree.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_rbtree.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_regex.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_regex.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_resolver.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_resolver.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_rwlock.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_rwlock.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_sha1.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_sha1.c(10,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_shmtx.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_shmtx.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_slab.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_slab.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_spinlock.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_spinlock.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_string.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_string.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_syslog.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_syslog.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_times.c
+E:\StudyC++\nginx-release-1.23.2\src\core\ngx_times.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_iocp_module.c
+E:\StudyC++\nginx-release-1.23.2\src\event\modules\ngx_iocp_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_win32_poll_module.c
+E:\StudyC++\nginx-release-1.23.2\src\event\modules\ngx_win32_poll_module.c(9,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_win32_select_module.c
+E:\StudyC++\nginx-release-1.23.2\src\event\modules\ngx_win32_select_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  正在编译...
+  ngx_event.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_accept.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event_accept.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_acceptex.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event_acceptex.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_connect.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event_connect.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_openssl.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event_openssl.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_openssl_stapling.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event_openssl_stapling.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_pipe.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event_pipe.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_posted.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event_posted.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_timer.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event_timer.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_udp.c
+E:\StudyC++\nginx-release-1.23.2\src\event\ngx_event_udp.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_access_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_access_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_addition_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_addition_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_auth_basic_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_auth_basic_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_auth_request_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_auth_request_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_autoindex_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_autoindex_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_browser_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_browser_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_charset_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_charset_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_chunked_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_chunked_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_empty_gif_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_empty_gif_module.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_fastcgi_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_fastcgi_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  正在编译...
+  ngx_http_flv_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_flv_module.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_geo_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_geo_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_gunzip_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_gunzip_filter_module.c(9,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_gzip_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_gzip_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_gzip_static_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_gzip_static_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_headers_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_headers_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_index_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_index_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_limit_conn_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_limit_conn_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_limit_req_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_limit_req_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_log_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_log_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_map_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_map_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_memcached_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_memcached_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_mirror_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_mirror_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_mp4_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_mp4_module.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_not_modified_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_not_modified_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_proxy_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_proxy_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_random_index_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_random_index_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_range_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_range_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_referer_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_referer_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_rewrite_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_rewrite_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  正在编译...
+  ngx_http_scgi_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_scgi_module.c(9,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_secure_link_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_secure_link_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_slice_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_slice_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_split_clients_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_split_clients_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_ssi_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_ssi_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_ssl_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_ssl_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_static_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_static_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_sub_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_sub_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_try_files_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_try_files_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_upstream_hash_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_upstream_hash_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_upstream_ip_hash_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_upstream_ip_hash_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_upstream_keepalive_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_upstream_keepalive_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_upstream_least_conn_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_upstream_least_conn_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_upstream_random_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_upstream_random_module.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_upstream_zone_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_upstream_zone_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_userid_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_userid_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_uwsgi_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\modules\ngx_http_uwsgi_module.c(10,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_copy_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_copy_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_core_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_core_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  正在编译...
+  ngx_http_file_cache.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_file_cache.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_header_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_header_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_huff_decode.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_huff_decode.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_huff_encode.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_huff_encode.c(9,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_parse.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_parse.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_postpone_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_postpone_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_request.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_request.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_request_body.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_request_body.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_script.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_script.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_special_response.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_special_response.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_upstream.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_upstream.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_upstream_round_robin.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_upstream_round_robin.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_variables.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_variables.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_http_write_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\http\ngx_http_write_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_auth_http_module.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_auth_http_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_core_module.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_core_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_handler.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_handler.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_imap_handler.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_imap_handler.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_imap_module.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_imap_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  正在编译...
+  ngx_mail_parse.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_parse.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_pop3_handler.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_pop3_handler.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_pop3_module.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_pop3_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_proxy_module.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_proxy_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_realip_module.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_realip_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_smtp_handler.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_smtp_handler.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_mail_smtp_module.c
+E:\StudyC++\nginx-release-1.23.2\src\mail\ngx_mail_smtp_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_alloc.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_alloc.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_dlopen.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_dlopen.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_errno.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_errno.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_event_log.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_event_log.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_files.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_files.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_process.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_process.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_process_cycle.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_process_cycle.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_shmem.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_shmem.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_socket.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_socket.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stat.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_stat.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_thread.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_thread.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_time.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_time.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_udp_wsarecv.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_udp_wsarecv.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  正在编译...
+  ngx_user.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_user.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_win32_init.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_win32_init.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_wsarecv.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_wsarecv.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_wsarecv_chain.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_wsarecv_chain.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_wsasend.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_wsasend.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_wsasend_chain.c
+E:\StudyC++\nginx-release-1.23.2\src\os\win32\ngx_wsasend_chain.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_access_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_access_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_core_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_core_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_geo_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_geo_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_handler.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_handler.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_limit_conn_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_limit_conn_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_log_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_log_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_map_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_map_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_proxy_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_proxy_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_realip_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_realip_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_return_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_return_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_script.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_script.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_set_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_set_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_split_clients_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_split_clients_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  正在编译...
+  ngx_stream_ssl_preread_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_ssl_preread_module.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_upstream.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_upstream.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_upstream_hash_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_upstream_hash_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_upstream_least_conn_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_upstream_least_conn_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_upstream_random_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_upstream_random_module.c(7,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_upstream_round_robin.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_upstream_round_robin.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_variables.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_variables.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
+  ngx_stream_write_filter_module.c
+E:\StudyC++\nginx-release-1.23.2\src\stream\ngx_stream_write_filter_module.c(8,10): fatal  error C1083: 无法打开包括文件: “ngx_config.h”: No such file or directory
